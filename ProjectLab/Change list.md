@@ -1,0 +1,2 @@
+- [ ] Main menu i the setStartGameFunction() was removed.
+- [ ] changed the selectedTems() dialog. made it more simple

@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "88c142e2ff6e2fce",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dea415ba035adc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19138ee1e13a8931",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Matrices Analysis/exam topics.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "exam topics"
+            }
+          },
+          {
+            "id": "fc87f4fdbe066661",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Matrices Analysis/Notes_0212.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Notes_0212"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff37050d8e4b06f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc671286094d7abe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9222715b9e152b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5aba7f1f9c67787e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "352de232a2ad79f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "right": {
+    "id": "1967ac6c09d90257",
+    "type": "split",
+    "children": [
+      {
+        "id": "4da138f43bfa2a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a00a6da1baa8a5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matrices Analysis/exam topics.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for exam topics"
+            }
+          },
+          {
+            "id": "dc7ad1c54718f9ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Matrices Analysis/exam topics.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from exam topics"
+            }
+          },
+          {
+            "id": "acb31707d654fda0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2685eb0976c5a1c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Matrices Analysis/exam topics.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of exam topics"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+    }
+  },
+  "active": "fc87f4fdbe066661",
+  "lastOpenFiles": [
+    "Matrices Analysis/Notes.md",
+    "Matrices Analysis/Mistake Corrections.md",
+    "Matrices Analysis/exam topics.pdf",
+    "ProjectLab/Class Diagrams.md",
+    "Trash.md",
+    "Why single inheritance and interfaces (Java).md",
+    "VsCode Tips and Tricks.md",
+    "Matrices Analysis/exercises.pdf",
+    "To Do.md",
+    "Untitled",
+    "Matrices Analysis/notes0527.pdf",
+    "Communication Networks/Slides2/Cinkler4_WiFi_NTN.pdf",
+    "Communication Networks/Slides2/Cinkler3_OpticalNetworks.pdf",
+    "Communication Networks/Slides2/09_mobile_4g_5g_Eng.pdf",
+    "Communication Networks/Slides2/08_mobile_3g_Eng.pdf",
+    "Communication Networks/Slides2/07_mobile_1g_2g_Eng.pdf",
+    "Communication Networks/Slides2/06_Signaling_Eng.pdf",
+    "CP tips.md",
+    "Proof.md",
+    "Software Techniques/Tests/WhatsApp_Image_2024-06-07_at_16.58.48_4a8f5142.jpg",
+    "Software Techniques/Tests/Untitled.md",
+    "ComputerGraphics/Notes.md",
+    "Software Techniques/Tests/WhatsApp_Image_2024-06-07_at_16.58.48_bbcb3d49.jpg",
+    "Software Techniques/Tests/WhatsApp_Image_2024-06-07_at_16.58.48_7e14bc89.jpg",
+    "Software Techniques/Tests/ExampelTest 1.0.jpg",
+    "Software Techniques/Tests/ExampleTest 1.1.jpg",
+    "Software Techniques/Test.md",
+    "Software Techniques/Tests/IMG_20240601_102011_015.jpg",
+    "Software Techniques/Tests/IMG_20240601_102021_851.png",
+    "Software Techniques/Tests/IMG_20240601_102018_569.png",
+    "Software Techniques/Tests/IMG_20240601_102016_570.png",
+    "Software Techniques/Tests/IMG_20240601_102011_015.png",
+    "Software Techniques/Slides/To do.md",
+    "Communication Networks/NOte.md",
+    "Business Law/Notes.md",
+    "Registry Key.md",
+    "ComputerGraphics/Slides/Untitled.md",
+    "Communication Networks/Anki/7 History_NGN_Numbering.md",
+    "Communication Networks/Anki/6.The Link Layer.md",
+    "Communication Networks/Anki/5.Network Layer Control Plane.md",
+    "Communication Networks/Anki/4.Network Layer Data Plane.md",
+    "Communication Networks/Anki/3.Transport Layer.md",
+    "Communication Networks/Anki/2.Application Layer.md",
+    "Communication Networks/Anki/1.Introduction.md",
+    "Communication Networks/Anki/11 Optical Network.md",
+    "Communication Networks/Anki/9 VoIP.md"
+  ]
+}

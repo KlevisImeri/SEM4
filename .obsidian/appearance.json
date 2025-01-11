@@ -1,0 +1,13 @@
+{
+  "accentColor": "#6ec6f2",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "width_of_paper",
+    "Center"
+  ],
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "textFontFamily": "FiraCode Nerd Font",
+  "cssTheme": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "FiraCode Nerd Font"
+}

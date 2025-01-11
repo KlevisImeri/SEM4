@@ -1,0 +1,8 @@
+- [ ] documentation 
+- [ ] source code
+- [ ] 20% of source-codes must be Javadoc comments on each class, method and attribute.
+- [ ] Zipped (Winzip7 or arj2.3) source-codes sent in e-mail attachment
+- [ ] pls upload code in your Teams chanel under "files"
+- [ ] Source code is expected to be compilable and runnable on the in the laptops of the other team
+- [ ] installation and handling information
+- [ ] **On the next lab please all teams wit all members be present.**

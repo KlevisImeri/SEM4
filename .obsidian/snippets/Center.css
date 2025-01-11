@@ -1,0 +1,48 @@
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-1 {
+  text-align: center;
+}
+
+/* PREVIEW MODE */
+
+/* Alligh Headers in the middle */
+.markdown-preview-view h2 {
+  text-align: center;
+}
+.HyperMD-header.HyperMD-header-2 {
+  text-align: center;
+}
+.markdown-preview-view h1 {
+  text-align: center;
+}
+
+/* Center tables on the page */
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Center Image*/
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Change the width of the body */
+/* body {--file-line-width:1000px} */
+/* - editor line width - fills entire editor -*/ 
+body {--file-line-width: 100%;} 
+
+/* Mermaid Setting */
+div.mermaid {text-align: center;}
+.mermaid svg { 
+  max-width: 100%; 
+  max-height: 1400px;
+}
+
+
+/* TEX math Settings */
+.MJX-TEX { font-size:100%;}

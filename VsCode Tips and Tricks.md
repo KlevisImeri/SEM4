@@ -1,0 +1,3 @@
+- `editor.codeLens` = to show the refences in lines
+- https://en.wikipedia.org/wiki/Indentation_style Indentations styles
+- enalbe c# fomatiing in OmniSharp and do some lines of code how you want

@@ -1,0 +1,6 @@
+Make a Console application "Hot potato" based on the following instructions. Hot potato is a party game with players sitting in a circle and pass a potato to their right-side neighbor. Once the time runs out, whoever has the potato loses the game.
+ 
+Multithreading (minimum points: 13)
+The application's main thread selects a random, integer between 5 and 21. This will be the game in seconds. After this, it should start 100 worker threads named Player1, Player2,..., Player100. Then the main thread starts the game.
+When the game starts, Player1 has the potato. When a worker thread has the potato, it waits for 100ms before passing it to the next thread (Player 1 passes it to Player2, ..., Player100 passes it to Player1). Players that don't have the potato should wait for their turn efficiently.
+The main thread prints out the name of the thread that has the potato every 10ms. Be accurate, always print the name of the potato holder at that exact time.
